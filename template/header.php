@@ -6,12 +6,15 @@
 
 <!-- <link href="../css/bootstrap.css"  rel="stylesheet"> -->
 <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="../css/bootstrap.css">
 <script href="../css/my-bootstrap.css" rel="stylesheet"></script>
 <link href="../css/style.css" rel="stylesheet">
 <link href="../css/my-style.css" rel="stylesheet">
 <link href="../css/font-awesome.css" rel="stylesheet">  <!-- font-awesome icons --> 
+<script src="../js/jquery-2.2.3.min.js"></script>
+
 <!-- //Custom Theme files -->
 </head>
 <body>
@@ -53,10 +56,11 @@
 						<ul class="nav navbar-nav navbar-left cl-effect-14">
 							<li><a href="index.php" class="active">Home</a></li>
 							<li><a href="about.php">About</a></li>
-							<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <span class="caret"></span></a>
+							<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Area<span class="caret"></span></a>
 								<ul class="dropdown-menu">
-									<li><a href="icons.html">Web Icons</a></li>
-									<li><a href="codes.html">Short Codes</a></li>
+									<li><a href="icons.html">Southern Region</a></li>
+									<li><a href="codes.html">Central Region</a></li>
+									<li><a href="#">Northern Region</a></li>
 								</ul>
 							</li> 
 

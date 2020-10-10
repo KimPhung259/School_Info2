@@ -61,3 +61,11 @@ a {
         filter: alpha(opacity=20);
         opacity: .2;
       }
+      .navbar-nav  li.active a, .navbar-nav  li.active1 a.dropdown-toggle,.navbar-nav li a:hover {
+        color:#c59ef1 !important;
+      -webkit-transform: scale(1.2);
+      -moz-transform: scale(1.2); 
+      -ms-transform: scale(1.2); 
+      -o-transform: scale(1.2); 
+      transform: scale(1.2);
+    }
